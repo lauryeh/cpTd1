@@ -1,4 +1,4 @@
-= Premier TD
+# Premier TD
 
 Après avoir mis le contenu de ce git sur votre machine, vous devez remplir les questions du document TD1.md
 
